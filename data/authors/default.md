@@ -4,8 +4,8 @@ avatar: /static/images/avatar.png
 occupation: Professor of Talking
 company: Mangere University
 email: petersalanoa@gmail.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com/in/peter-salanoa-0889873
+twitter: https://twitter.com/petersalanoa
+linkedin: https://www.linkedin.com/in/peter-salanoa-0889873/
 github: https://github.com/salanoa
 ---
 
